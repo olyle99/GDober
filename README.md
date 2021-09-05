@@ -4678,4 +4678,4 @@ http://iptv.tvmalaysia.cc:80/penang200/penang200/6575
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE 2" tvg-logo="https://i.ibb.co/xH6szCG/FOOT.png",[$]S FOOTBALL HD
 http://iptv.tvmalaysia.cc:80/penang200/penang200/6576
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE 2" tvg-logo="https://i.ibb.co/3RTPh6y/GS.png",[$]S GRANDSTAND HD
-http://iptv.tvmalaysia.cc:80/penang200/penang200/6572
+http://iptv.tvmalaysia.cc:80/penang200/penang200/6572 
