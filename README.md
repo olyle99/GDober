@@ -2270,21 +2270,23 @@ http://93.157.62.180/Supersport5/index.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/TOB4krE.png",[$]SUPER SPORT 6HD VIP
 http://93.157.62.180/Supersport6/index.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/j7y5G1T.png",[$]SUPER SPORT 1HD
-http://local6.satrestream.com:8080/Iptvyammaskyp/Hd53gToFKhsi427gjiUT/16947
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/224
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/fGz7bOh.png",[$]SUPER SPORT 2HD
-http://local6.satrestream.com:8080/Iptvyammaskyp/Hd53gToFKhsi427gjiUT/16953
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/223
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/RApShhr.png",[$]SUPER SPORT 3HD
-http://local6.satrestream.com:8080/Iptvyammaskyp/Hd53gToFKhsi427gjiUT/16954
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/222
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/HP8vJ7F.png",[$]SUPER SPORT 4HD
-http://local6.satrestream.com:8080/Iptvyammaskyp/Hd53gToFKhsi427gjiUT/16955
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/221
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/5m9dQqU.png",[$]SUPER SPORT 5HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/19809
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/OGWZ3Dq.png",[$]SS 1HD
-https://sports.cdn-stream.com:30443/live/ss1/playlist.m3u8|User-Agent=stream
+http://local6.satrestream.com:8080/Iptvyammaskyp/Hd53gToFKhsi427gjiUT/16947
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/sw2C1f9.png",[$]SS 2HD 
-https://sports.cdn-stream.com:30443/live/ss2/playlist.m3u8|User-Agent=stream
+http://local6.satrestream.com:8080/Iptvyammaskyp/Hd53gToFKhsi427gjiUT/16953
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/d3CnmPJ.png",[$]SS 3HD
-https://sports.cdn-stream.com:30443/live/ss3/playlist.m3u8|User-Agent=stream
+http://local6.satrestream.com:8080/Iptvyammaskyp/Hd53gToFKhsi427gjiUT/16954
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/MHoYRXU.png",[$]SS 4HD
-https://sports.cdn-stream.com:30443/live/ss4/playlist.m3u8|User-Agent=stream
+http://local6.satrestream.com:8080/Iptvyammaskyp/Hd53gToFKhsi427gjiUT/16955
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/xeXHpUF.png",========>>TRING SPORT<<========
 https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?sport4
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/XEz5qYa.png",[$]TRING SPORT NEWS HD VIP
